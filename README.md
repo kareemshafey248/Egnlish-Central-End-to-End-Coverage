@@ -33,5 +33,5 @@ Beyond automation, this project provides:
 - **API Collection**: Postman environment for one-click speech and video AI endpoint verification.
 
 ---
-**Maintained by**: Karim
+**Maintained by**: Karim shafey  to QA/lead  Tarik
 **Objective**: Professional QA Interview Portfolio
